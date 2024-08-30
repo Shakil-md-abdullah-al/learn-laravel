@@ -1,4 +1,12 @@
 <h1>Learn Laravel from Front to PHP with CRUD App</h1>
+🌐 Social Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-shakil-98882718a/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/shakilmdabdullahal)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=contact.shakil3300@gmail.com)
+[![Facebook Page](https://img.shields.io/badge/Facebook%20Page-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/maashakil/)
+[![GitHub Follow](https://img.shields.io/badge/GitHub-Follow%20Me-black?logo=github&logoColor=white)](https://github.com/Shakil-md-abdullah-al)
+</br>
 
 Welcome to the "Learn Laravel" repository, a comprehensive resource designed to help you master Laravel, a popular PHP web application framework, from start to finish. Whether you're a front-end developer looking to dive into back-end development or a PHP enthusiast seeking to build robust web applications, this repository offers a structured learning path that covers essential concepts, from the front-end to creating a full-fledged CRUD (Create, Read, Update, Delete) application.
 
